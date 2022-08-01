@@ -4,7 +4,7 @@ Raycaster
 In this project I implemented raycasting\
 with wall textures, ceiling and floor
 ## How to run
-To run his app, you need to provide a file with .cub extension which has map, colors and textures path in it
+To run his app, you need to provide a file with *.cub* extension which has map, colors and textures path in it
 ### Example of map.cub file
 <img width="355" alt="image" src="https://user-images.githubusercontent.com/53175260/182155213-6697c4aa-1324-456c-93a6-71dfcb9fed4b.png">\
 ## Working program
