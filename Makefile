@@ -7,7 +7,7 @@ OBJS = $(SRCS:.c=.o)
 LINUX_FRAEMWORKS = -Lmlx_linux -lmlx_Linux -L/usr/lib -Imlx_linux -lXext -lX11 -lm
 MACOS_FRAMEWORKS = -Lmlx -lmlx -framework OpenGL -framework AppKit
 
-FLAGS = -Wall -Wextra -Werror
+FLAGS = 
 
 LIBFT = libft/libft.a
 
